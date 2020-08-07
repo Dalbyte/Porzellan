@@ -2,7 +2,18 @@
     "name": "Porzellan",
     "description": "Ein Node-RED-Projekt",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-dashboard": "~2.23.0",
+        "node-red-contrib-startup-trigger": "~0.1.0",
+        "node-red-contrib-moment": "~3.0.3",
+        "node-red-contrib-fs-ops": "1.5.0",
+        "node-red-node-ui-list": "~0.3.1",
+        "node-red-contrib-telegrambot": "8.3.3",
+        "node-red-contrib-ui-media": "1.2.0",
+        "node-red-contrib-image-tools": "1.4.0",
+        "qrcode": "1.4.4",
+        "uniqid": "5.2.0"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flow.json",
