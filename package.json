@@ -11,6 +11,7 @@
         "node-red-contrib-telegrambot": "8.3.3",
         "node-red-contrib-ui-media": "1.2.0",
         "node-red-contrib-image-tools": "1.4.0",
+        "node-red-node-base64": "0.2.1",
         "qrcode": "1.4.4",
         "uniqid": "5.2.0"
     },
