@@ -9,8 +9,10 @@
         "node-red-contrib-fs-ops": "1.5.0",
         "node-red-node-ui-list": "~0.3.1",
         "node-red-contrib-telegrambot": "8.3.3",
+        "node-red-node-markdown": "0.1.4",
         "node-red-contrib-ui-media": "1.2.0",
         "node-red-contrib-image-tools": "1.4.0",
+        "node-red-node-exif": "0.0.7",
         "node-red-node-base64": "0.2.1",
         "qrcode": "1.4.4",
         "uniqid": "5.2.0"
